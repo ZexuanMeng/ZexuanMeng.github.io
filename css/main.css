@@ -46,6 +46,7 @@ body{
 }
 
 .avatar .img-fluid{
+    object-fit: contain;
     height: 25rem;
     width: 25rem;
     border-radius: 50%;
@@ -83,6 +84,7 @@ body{
 /* footer */
 #footer{
     text-decoration: none !important;
+    background-color: azure;
 }
 
 .footer-text > a{
