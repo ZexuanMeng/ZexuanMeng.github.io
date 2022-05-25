@@ -10,7 +10,8 @@ body{
     padding-bottom: 3.125rem;
     min-height: 100%;
     height: auto;
-    margin: 0 auto -4.0625rem;
+    margin: 0 auto;
+    margin-bottom: -1.5625rem;
     background-color: azure;
 }
 
@@ -80,7 +81,7 @@ body{
 }
 
 /* footer */
-.footer{
+#footer{
     text-decoration: none !important;
 }
 
