@@ -81,6 +81,18 @@ body{
     color: #22a83f;
 }
 
+/* now page */
+#now{
+    margin-top: .9375rem;
+}
+
+.container-fluid > p, .container-fluid > h5,
+.container-fluid > ul > li{
+    margin-left: 1.25rem;
+    text-align: left;
+}
+
+
 /* footer */
 #footer{
     text-decoration: none !important;
