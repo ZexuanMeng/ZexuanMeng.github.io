@@ -58,6 +58,11 @@ body{
     font-size: 1.25rem;
 }
 
+.container-fluid .avatar > h5{
+    color: #4e4e4e;
+    margin-bottom: .3125rem;
+}
+
 .container-fluid .context > h3{
     font-size: 1.5625rem;
 }
